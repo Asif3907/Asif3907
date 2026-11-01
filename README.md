@@ -99,24 +99,7 @@ Beyond Salesforce, I enjoy exploring modern web technologies, understanding how 
 
 ---
 
-## `04 / SELECTED PROJECTS`
 
-<div align="center">
-
-<a href="https://github.com/Asif3907/Gym">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asif3907&repo=Gym&theme=transparent&hide_border=true&title_color=00B8A9&text_color=9CAFC0&icon_color=00B8A9"/>
-</a>
-<a href="https://github.com/Asif3907/Youtube_clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asif3907&repo=Youtube_clone&theme=transparent&hide_border=true&title_color=00B8A9&text_color=9CAFC0&icon_color=00B8A9"/>
-</a>
-<a href="https://github.com/Asif3907/JavaCodebase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asif3907&repo=JavaCodebase&theme=transparent&hide_border=true&title_color=00B8A9&text_color=9CAFC0&icon_color=00B8A9"/>
-</a>
-<a href="https://github.com/Asif3907/Gym-Homepage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asif3907&repo=Gym-Homepage&theme=transparent&hide_border=true&title_color=00B8A9&text_color=9CAFC0&icon_color=00B8A9"/>
-</a>
-
-</div>
 
 <div align="center">
 
