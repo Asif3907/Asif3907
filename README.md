@@ -48,15 +48,38 @@ Beyond Salesforce, I enjoy exploring modern web technologies, understanding how 
 
 <div align="center">
 
-### ☁️ SALESFORCE ECOSYSTEM
 
-<img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/APEX-087E8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LIGHTNING_WEB_COMPONENTS-00B8A9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOQL-167D9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SFDX_CLI-123D50?style=for-the-badge"/>
+<!-- SALESFORCE FEATURE SECTION -->
 
-<br/><br/>
+<div align="center">
+
+<h2>☁️ SALESFORCE DEVELOPMENT ECOSYSTEM</h2>
+
+<img src="https://cdn.simpleicons.org/salesforce/00A1E0"
+     width="100"
+     alt="Salesforce Logo"/>
+
+<h3>Building on the Salesforce Platform</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/APEX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LIGHTNING_WEB_COMPONENTS-00B8A9?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SOQL-315A8E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_APIs-51438B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SALESFORCE_CLI-0876A5?style=for-the-badge"/>
+</p>
+
+<p>
+  <b>Custom Applications • Business Automation • System Integration</b>
+</p>
+
+</div>
+
+<hr/>
+
 
 ### `PROGRAMMING & WEB DEVELOPMENT`
 
