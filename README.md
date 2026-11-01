@@ -7,7 +7,7 @@
 - 💞️ I'm open to collaborating on Salesforce projects, open-source contributions, and innovative software solutions.
 - 📫 Let's connect on LinkedIn: linkedin.com/in/syed-asif-79982720b
 
-**"Always learning, always building, and always looking for better ways to solve problems."**
+Always learning, always building, and always looking for better ways to solve problems.
 
 
 <!-- ═══════════════════════════════════════════════════════════ -->
