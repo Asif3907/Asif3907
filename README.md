@@ -1,12 +1,6 @@
+ <div align="center">
 
-<!-- =========================================================
-     ASIF3907 | DEVELOPER PORTFOLIO
-     Theme: Midnight Navy / Electric Cyan / Teal
-========================================================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:101D35,45:123D50,100:007F86&text=SYED%20ASIF&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=SALESFORCE%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=16&descAlignY=65&descColor=9CEBE5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:101D35,45:123D50,100:087E8B&text=SYED%20ASIF&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=SALESFORCE%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=16&descAlignY=65&descColor=9CEBE5" width="100%"/>
 
 <br/>
 
@@ -27,11 +21,9 @@
 
 ---
 
-<!-- 01 / ABOUT -->
-
 <h2 align="left">01 / THE DEVELOPER</h2>
 
-Hi! 👋 I'm **Syed Asif**, a Salesforce Developer with an interest in software engineering, cloud technologies, and building applications that solve real-world problems.
+Hey there! 👋 I'm **Syed Asif**, a Salesforce Developer passionate about software engineering, cloud technologies, and solving real-world problems.
 
 My primary focus is developing solutions on the Salesforce platform, combining declarative capabilities with programmatic development.
 
@@ -61,7 +53,7 @@ Automation · Integration · Engineering
 <tr>
 <td width="50%" valign="top">
 
-**🌱 CURRENT INTERESTS**
+**🌱 MY INTERESTS**
 
 System Architecture
 
@@ -82,15 +74,11 @@ Salesforce Projects · Open Source · Innovation
 
 ---
 
-<!-- 02 / SALESFORCE FEATURE -->
-
 <h2 align="center">02 / SALESFORCE DEVELOPMENT</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/☁%20SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="48"/>
-
-<br/>
+<img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="48"/>
 
 ### BUILDING ON THE SALESFORCE PLATFORM
 
@@ -101,48 +89,60 @@ Salesforce Projects · Open Source · Innovation
 <table>
 <tr>
 <td align="center" width="33%">
+
 <img src="https://img.shields.io/badge/APEX-087EBD?style=for-the-badge&logo=salesforce&logoColor=white"/>
-<br/><br/>
-<b>APEX</b>
-<br/>
+
+**APEX**
+
 <sub>Server-side logic</sub>
+
 </td>
 <td align="center" width="33%">
+
 <img src="https://img.shields.io/badge/LWC-00A6A6?style=for-the-badge"/>
-<br/><br/>
-<b>LIGHTNING WEB COMPONENTS</b>
-<br/>
+
+**LIGHTNING WEB COMPONENTS**
+
 <sub>Custom user interfaces</sub>
+
 </td>
 <td align="center" width="33%">
+
 <img src="https://img.shields.io/badge/SOQL-425B91?style=for-the-badge"/>
-<br/><br/>
-<b>SOQL</b>
-<br/>
+
+**SOQL**
+
 <sub>Data querying</sub>
+
 </td>
 </tr>
 <tr>
 <td align="center">
+
 <img src="https://img.shields.io/badge/REST_API-6250A4?style=for-the-badge"/>
-<br/><br/>
-<b>REST APIs</b>
-<br/>
+
+**REST APIs**
+
 <sub>System integrations</sub>
+
 </td>
 <td align="center">
+
 <img src="https://img.shields.io/badge/SALESFORCE_CLI-087E8B?style=for-the-badge"/>
-<br/><br/>
-<b>SF CLI</b>
-<br/>
+
+**SF CLI**
+
 <sub>Development workflow</sub>
+
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/SALESFORCE_FLOW-00A1E0?style=for-the-badge"/>
-<br/><br/>
-<b>FLOW</b>
-<br/>
+
+<img src="https://img.shields.io/badge/FLOW-00A1E0?style=for-the-badge"/>
+
+**FLOW**
+
 <sub>Process automation</sub>
+
 </td>
 </tr>
 </table>
@@ -151,113 +151,157 @@ Salesforce Projects · Open Source · Innovation
 
 ---
 
-<!-- 03 / PROGRAMMING -->
-
 <h2 align="center">03 / PROGRAMMING & WEB ENGINEERING</h2>
 
 <div align="center">
 
-<p><b>LANGUAGES</b></p>
+### PROGRAMMING LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=javascript,java,html,css&theme=dark"/>
 
 <br/><br/>
 
-<p><b>FRAMEWORKS & RUNTIME</b></p>
+### FRAMEWORKS & RUNTIME
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark"/>
 
 <br/><br/>
 
-<p><b>DEVELOPER TOOLKIT</b></p>
+### DEVELOPER TOOLKIT
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite&theme=dark"/>
-
-<br/>
 
 </div>
 
 ---
 
-<!-- 04 / CERTIFICATIONS -->
-
 <h2 align="center">04 / CERTIFICATIONS & CREDENTIALS</h2>
 
 <div align="center">
 
+<br/>
+
 <a href="https://trailhead.salesforce.com/credentials/platformdeveloperi">
-
-<img src="https://img.shields.io/badge/SALESFORCE_CERTIFIED-PLATFORM_DEVELOPER_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-
+<img src="https://img.shields.io/badge/SALESFORCE_CERTIFIED-PLATFORM_DEVELOPER_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 ### Salesforce Certified Platform Developer I
 
-Demonstrating knowledge of Salesforce programmatic development, Apex, data modelling, automation, and application customisation.
+Knowledge of Salesforce programmatic development, Apex, data modelling, automation, and application customisation.
 
 <br/>
 
 <sub>Continuous learning. Practical implementation. Professional growth.</sub>
 
+<br/>
+
 </div>
 
 ---
-
-<!-- 05 / PROJECTS -->
 
 <h2 align="center">05 / PROJECT SHOWCASE</h2>
 
 <div align="center">
 
-*Some of my development work and experiments.*
-
-<br/>
-
-<a href="https://github.com/Asif3907/Gym">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asif3907&repo=Gym&theme=transparent&hide_border=true&title_color=00B8A9&text_color=C4D5E0&icon_color=00B8A9"/>
-</a>
-<a href="https://github.com/Asif3907/Youtube_clone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asif3907&repo=Youtube_clone&theme=transparent&hide_border=true&title_color=00B8A9&text_color=C4D5E0&icon_color=00B8A9"/>
-</a>
-
-<a href="https://github.com/Asif3907/JavaCodebase">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asif3907&repo=JavaCodebase&theme=transparent&hide_border=true&title_color=00B8A9&text_color=C4D5E0&icon_color=00B8A9"/>
-</a>
-<a href="https://github.com/Asif3907/Gym-Homepage">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asif3907&repo=Gym-Homepage&theme=transparent&hide_border=true&title_color=00B8A9&text_color=C4D5E0&icon_color=00B8A9"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Asif3907?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-087E8B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+*Selected development work, experiments and learning projects.*
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- 06 / GITHUB ANALYTICS -->
+### 🏋️ Gym
 
-<h2 align="center">06 / GITHUB ANALYTICS</h2>
+A web development project focused on a gym-related application.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<a href="https://github.com/Asif3907/Gym">↗ Explore Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ▶️ YouTube Clone
+
+A frontend development project inspired by YouTube.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<a href="https://github.com/Asif3907/Youtube_clone">↗ Explore Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Java Codebase
+
+A collection of Java code and learning experiments.
+
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+
+<a href="https://github.com/Asif3907/JavaCodebase">↗ Explore Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Gym Homepage
+
+A frontend project focused on website layout and styling.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<a href="https://github.com/Asif3907/Gym-Homepage">↗ Explore Repository</a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asif3907&show_icons=true&hide_border=true&bg_color=0D1726&title_color=00B8A9&icon_color=00B8A9&text_color=C4D5E0&rank_icon=github"/>
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif3907&layout=compact&hide_border=true&bg_color=0D1726&title_color=00B8A9&text_color=C4D5E0"/>
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=Asif3907&theme=transparent&hide_border=true&ring=00B8A9&fire=00B8A9&currStreakLabel=00B8A9&sideLabels=9CAFC0&dates=8194A8"/>
+<a href="https://github.com/Asif3907?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-087E8B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-<!-- 07 / CONNECT -->
+<h2 align="center">06 / DEVELOPMENT ACTIVITY</h2>
+
+<div align="center">
+
+### CODE. COMMIT. REPEAT.
+
+<br/>
+
+<img src="https://img.shields.io/badge/GITHUB-OPEN_SOURCE-152B40?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ENGINEERING-CONTINUOUS_LEARNING-087E8B?style=for-the-badge"/>
+
+<br/><br/>
+
+*Every commit represents another step forward.*
+
+<br/>
+
+<a href="https://github.com/Asif3907?tab=repositories">
+
+**Explore my repositories and development activity →**
+
+</a>
+
+</div>
+
+---
 
 <h2 align="center">07 / LET'S CONNECT</h2>
 
@@ -286,4 +330,3 @@ I'm always interested in connecting with developers, exploring new technologies,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:087E8B,100:101D35&height=120&section=footer" width="100%"/>
 
 </div>
-```
